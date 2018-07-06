@@ -1,3 +1,3 @@
 
 Dirección del sitio:
-https://rarvear.github.io/PruebaHTML-CCS/index.html
+https://rarvear.github.io/PruebaHTML-CCS/
